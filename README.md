@@ -2,7 +2,7 @@
 - 👀 I’m interested in spectroscopy, machine learning, artificial inteligence
 - 🌱 I’m currently learning machine learnign and NIR spectroscopy
 - 💞️ I’m looking to collaborate on these topics.
-- 📫 How to reach me: ndungundegwa85@gmail.com, ndungundegwa@students.uonbi.ac.ke
+- 📫 How to reach me: ndungundegwa85@gmail.com, ndungundegwa@proton.me
 
 <!---
 ndungundegwa/ndungundegwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
